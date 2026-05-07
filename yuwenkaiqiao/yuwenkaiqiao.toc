@@ -1,35 +1,41 @@
 \contentsline {part}{第一部分\hspace {1em}语体文开窍}{1}{}%
 \contentsline {chapter}{\numberline {第一章\hspace {.3em}}关于汉字的能力培养}{2}{}%
 \contentsline {section}{\numberline {1.1}怎样又快又准地查字典}{2}{}%
-\contentsline {section}{\numberline {1.2}怎样避免读错字音}{10}{}%
-\contentsline {section}{\numberline {1.3}怎样正确注音}{18}{}%
-\contentsline {section}{\numberline {1.4}怎样避免写错别字}{26}{}%
-\contentsline {section}{\numberline {1.5}怎样辨析多音多义字}{34}{}%
-\contentsline {chapter}{\numberline {第二章\hspace {.3em}}关于词语的能力培养}{40}{}%
-\contentsline {section}{\numberline {2.1}怎样辨析单纯词和合成词}{40}{}%
-\contentsline {section}{\numberline {2.2}怎样辨析同义词}{45}{}%
-\contentsline {section}{\numberline {2.3}怎样辨析反义词}{52}{}%
-\contentsline {section}{\numberline {2.4}怎样填写词语}{58}{}%
-\contentsline {section}{\numberline {2.5}怎样解释词语}{65}{}%
-\contentsline {section}{\numberline {2.6}怎样辨析词类}{72}{}%
-\contentsline {section}{\numberline {2.7}怎样分析词组}{79}{}%
-\contentsline {section}{\numberline {2.8}怎样掌握和运用成语}{85}{}%
-\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于句子的能力培养}{94}{}%
-\contentsline {section}{\numberline {3.1}怎样分析句子的结构}{94}{}%
-\contentsline {section}{\numberline {3.2}怎样分析句子成分之间的关系}{100}{}%
-\contentsline {section}{\numberline {3.3}怎样辨析单句和复句}{107}{}%
-\contentsline {section}{\numberline {3.4}怎样分析多重复句}{114}{}%
-\contentsline {section}{\numberline {3.5}怎样修改病句}{121}{}%
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于篇章的能力培养}{132}{}%
-\contentsline {part}{第二部分\hspace {1em}文言文开窍}{133}{}%
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}关于文言实词的能力培养}{134}{}%
-\contentsline {chapter}{\numberline {第六章\hspace {.3em}}关于文言虚词的能力培养}{135}{}%
-\contentsline {chapter}{\numberline {第七章\hspace {.3em}}关于文言句式的能力培养}{136}{}%
-\contentsline {chapter}{\numberline {第八章\hspace {.3em}}关于文言文翻译的能力培养}{137}{}%
-\contentsline {part}{第三部分\hspace {1em}作文开窍}{138}{}%
-\contentsline {chapter}{\numberline {第九章\hspace {.3em}}关于作文基本能力的培养}{139}{}%
-\contentsline {chapter}{\numberline {第十章\hspace {.3em}}关于记叙文写作能力的培养}{140}{}%
-\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}关于议论文写作能力的培养}{141}{}%
-\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}关于说明文写作能力的培养}{142}{}%
-\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}关于应用文写作能力的培养}{143}{}%
-\contentsline {part}{第四部分\hspace {1em}写在后面的话}{144}{}%
+\contentsline {section}{\numberline {1.2}怎样避免读错字音}{9}{}%
+\contentsline {section}{\numberline {1.3}怎样正确注音}{16}{}%
+\contentsline {section}{\numberline {1.4}怎样避免写错别字}{24}{}%
+\contentsline {section}{\numberline {1.5}怎样辨析多音多义字}{31}{}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}关于词语的能力培养}{37}{}%
+\contentsline {section}{\numberline {2.1}怎样辨析单纯词和合成词}{37}{}%
+\contentsline {section}{\numberline {2.2}怎样辨析同义词}{42}{}%
+\contentsline {section}{\numberline {2.3}怎样辨析反义词}{49}{}%
+\contentsline {section}{\numberline {2.4}怎样填写词语}{55}{}%
+\contentsline {section}{\numberline {2.5}怎样解释词语}{62}{}%
+\contentsline {section}{\numberline {2.6}怎样辨析词类}{69}{}%
+\contentsline {section}{\numberline {2.7}怎样分析词组}{76}{}%
+\contentsline {section}{\numberline {2.8}怎样掌握和运用成语}{82}{}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于句子的能力培养}{91}{}%
+\contentsline {section}{\numberline {3.1}怎样分析句子的结构}{91}{}%
+\contentsline {section}{\numberline {3.2}怎样分析句子成分之间的关系}{97}{}%
+\contentsline {section}{\numberline {3.3}怎样辨析单句和复句}{104}{}%
+\contentsline {section}{\numberline {3.4}怎样分析多重复句}{111}{}%
+\contentsline {section}{\numberline {3.5}怎样修改病句}{118}{}%
+\contentsline {section}{\numberline {3.6}怎样正确使用标点符号}{129}{}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于篇章的能力培养}{138}{}%
+\contentsline {section}{\numberline {4.1}怎样组织好一段话}{138}{}%
+\contentsline {section}{\numberline {4.2}怎样划分一段话的层次}{146}{}%
+\contentsline {section}{\numberline {4.3}怎样划分文章的段落}{154}{}%
+\contentsline {section}{\numberline {4.4}怎样归纳中心思想}{161}{}%
+\contentsline {section}{\numberline {4.5}怎样朗读文章}{168}{}%
+\contentsline {part}{第二部分\hspace {1em}文言文开窍}{176}{}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}关于文言实词的能力培养}{177}{}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}关于文言虚词的能力培养}{178}{}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}关于文言句式的能力培养}{179}{}%
+\contentsline {chapter}{\numberline {第八章\hspace {.3em}}关于文言文翻译的能力培养}{180}{}%
+\contentsline {part}{第三部分\hspace {1em}作文开窍}{181}{}%
+\contentsline {chapter}{\numberline {第九章\hspace {.3em}}关于作文基本能力的培养}{182}{}%
+\contentsline {chapter}{\numberline {第十章\hspace {.3em}}关于记叙文写作能力的培养}{183}{}%
+\contentsline {chapter}{\numberline {第十一章\hspace {.3em}}关于议论文写作能力的培养}{184}{}%
+\contentsline {chapter}{\numberline {第十二章\hspace {.3em}}关于说明文写作能力的培养}{185}{}%
+\contentsline {chapter}{\numberline {第十三章\hspace {.3em}}关于应用文写作能力的培养}{186}{}%
+\contentsline {part}{第四部分\hspace {1em}写在后面的话}{187}{}%
