@@ -4,3 +4,17 @@
 \usepackage{multirow}
 \usepackage{amsmath}
 \usepackage{ulem}
+\usepackage{enumitem}
+
+% 自定义一个类似词典条目的环境
+\newenvironment{entry}
+{\begin{description}[
+		labelwidth=2cm,       % 标签占据的宽度，可根据最长标签调整
+		leftmargin=2cm,       % 整个条目左侧缩进（labelwidth + labelsep）
+		labelsep=0.2cm,       % 标签和正文之间的间距
+		align=right,           % 标签左对齐
+		labelindent=0pt,      % 标签无额外缩进
+		font=\normalfont,     % 标签字体正常（不加粗）
+		itemindent=0pt,       % 正文首行不缩进
+		]}
+{\end{description}}
