@@ -1,20 +1,48 @@
 \usepackage{geometry}
-\geometry{paperwidth=140mm,paperheight=203mm,,left=2cm,right=2cm,top=2cm,bottom=1cm}
+\geometry{
+    paperwidth=140mm,
+    paperheight=203mm,
+    left=2cm,
+    right=2cm,
+    top=2cm,
+    bottom=1cm
+    }
 
 \usepackage{multirow}
 \usepackage{amsmath}
 \usepackage{ulem}
 \usepackage{enumitem}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}  % 添加这行，将横线宽度设为0
+\fancyhf{}
+\cfoot{-~\thepage~-} 
+\setlength{\footskip}{14pt} 
 
 % 自定义一个类似词典条目的环境
 \newenvironment{entry}
 {\begin{description}[
-		labelwidth=2cm,       % 标签占据的宽度，可根据最长标签调整
-		leftmargin=2cm,       % 整个条目左侧缩进（labelwidth + labelsep）
-		labelsep=0.2cm,       % 标签和正文之间的间距
-		align=right,           % 标签左对齐
-		labelindent=0pt,      % 标签无额外缩进
-		font=\normalfont,     % 标签字体正常（不加粗）
-		itemindent=0pt,       % 正文首行不缩进
-		]}
+    labelwidth=2cm,       % 标签占据的宽度，可根据最长标签调整
+    leftmargin=2cm,       % 整个条目左侧缩进（labelwidth + labelsep）
+    labelsep=0.2cm,       % 标签和正文之间的间距
+    align=right,           % 标签左对齐
+    labelindent=0pt,      % 标签无额外缩进
+    font=\normalfont,     % 标签字体正常（不加粗）
+    itemindent=0pt,       % 正文首行不缩进
+    ]}
 {\end{description}}
+
+\usepackage{tikz}
+% 定义四角标命令 \cornernum{汉字}{左上}{右上}{左下}{右下}
+\newcommand{\cornernum}[5]{%
+    \begin{tikzpicture}[baseline=(word.base)]
+        % 节点显示汉字
+        \large
+        \node[inner sep=0pt, outer sep=0pt] (word) {#1};
+        % 标注四个角的数字，使用 tiny 字体或更小
+        \node[anchor=south west, inner sep=0.1pt, font=\scriptsize] at (word.north west) {#2};
+        \node[anchor=south east, inner sep=0.1pt, font=\scriptsize] at (word.north east) {#3};
+        \node[anchor=north west, inner sep=0.1pt, font=\scriptsize] at (word.south west) {#4};
+        \node[anchor=north east, inner sep=0.1pt, font=\scriptsize] at (word.south east) {#5};
+    \end{tikzpicture}%
+}
