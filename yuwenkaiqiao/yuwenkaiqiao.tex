@@ -1,8 +1,14 @@
 \documentclass[UTF8, 11pt, oneside]{ctexbook}
+
 \input{ywkq-styles}
 
 \begin{document}
+    \frontmatter
+    \pagestyle{empty}      % 彻底关闭页眉页脚（包括那两个横杠）
     \include{ywkq-title-page}
+
+    \clearpage
+    \pagestyle{fancy}
     \tableofcontents
 
     \mainmatter

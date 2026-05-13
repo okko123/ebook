@@ -13,61 +13,61 @@
 \contentsline {section}{\numberline {2.5}怎样解释词语}{63}{}%
 \contentsline {section}{\numberline {2.6}怎样辨析词类}{70}{}%
 \contentsline {section}{\numberline {2.7}怎样分析词组}{77}{}%
-\contentsline {section}{\numberline {2.8}怎样掌握和运用成语}{83}{}%
+\contentsline {section}{\numberline {2.8}怎样掌握和运用成语}{84}{}%
 \newpage 
-\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于句子的能力培养}{92}{}%
-\contentsline {section}{\numberline {3.1}怎样分析句子的结构}{92}{}%
-\contentsline {section}{\numberline {3.2}怎样分析句子成分之间的关系}{98}{}%
-\contentsline {section}{\numberline {3.3}怎样辨析单句和复句}{105}{}%
-\contentsline {section}{\numberline {3.4}怎样分析多重复句}{112}{}%
-\contentsline {section}{\numberline {3.5}怎样修改病句}{119}{}%
-\contentsline {section}{\numberline {3.6}怎样正确使用标点符号}{130}{}%
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于篇章的能力培养}{139}{}%
-\contentsline {section}{\numberline {4.1}怎样组织好一段话}{139}{}%
-\contentsline {section}{\numberline {4.2}怎样划分一段话的层次}{147}{}%
-\contentsline {section}{\numberline {4.3}怎样划分文章的段落}{155}{}%
-\contentsline {section}{\numberline {4.4}怎样归纳中心思想}{162}{}%
-\contentsline {section}{\numberline {4.5}怎样朗读文章}{169}{}%
-\contentsline {part}{第二部分\hspace {1em}文言文开窍}{177}{}%
-\contentsline {chapter}{\numberline {第一章\hspace {.3em}}关于文言实词的能力培养}{178}{}%
-\contentsline {section}{\numberline {1.1}怎样掌握古今词义的变化}{178}{}%
-\contentsline {section}{\numberline {1.2}怎样辨析文言实词的一词多义现象}{187}{}%
-\contentsline {section}{\numberline {1.3}[\ 附录一\ ]常见文言多义词义项举要}{194}{}%
-\contentsline {section}{\numberline {1.4}怎样掌握文言通假字}{204}{}%
-\contentsline {section}{\numberline {1.5}怎样掌握文言实词的活用规律}{215}{}%
-\contentsline {section}{\numberline {1.6}[\ 附录二\ ]古代汉语常用副词简表}{226}{}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于句子的能力培养}{93}{}%
+\contentsline {section}{\numberline {3.1}怎样分析句子的结构}{93}{}%
+\contentsline {section}{\numberline {3.2}怎样分析句子成分之间的关系}{99}{}%
+\contentsline {section}{\numberline {3.3}怎样辨析单句和复句}{106}{}%
+\contentsline {section}{\numberline {3.4}怎样分析多重复句}{113}{}%
+\contentsline {section}{\numberline {3.5}怎样修改病句}{120}{}%
+\contentsline {section}{\numberline {3.6}怎样正确使用标点符号}{131}{}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于篇章的能力培养}{140}{}%
+\contentsline {section}{\numberline {4.1}怎样组织好一段话}{140}{}%
+\contentsline {section}{\numberline {4.2}怎样划分一段话的层次}{148}{}%
+\contentsline {section}{\numberline {4.3}怎样划分文章的段落}{156}{}%
+\contentsline {section}{\numberline {4.4}怎样归纳中心思想}{163}{}%
+\contentsline {section}{\numberline {4.5}怎样朗读文章}{170}{}%
+\contentsline {part}{第二部分\hspace {1em}文言文开窍}{178}{}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}关于文言实词的能力培养}{179}{}%
+\contentsline {section}{\numberline {1.1}怎样掌握古今词义的变化}{179}{}%
+\contentsline {section}{\numberline {1.2}怎样辨析文言实词的一词多义现象}{188}{}%
+\contentsline {section}{\numberline {1.3}[\ 附录一\ ]常见文言多义词义项举要}{195}{}%
+\contentsline {section}{\numberline {1.4}怎样掌握文言通假字}{205}{}%
+\contentsline {section}{\numberline {1.5}怎样掌握文言实词的活用规律}{216}{}%
+\contentsline {section}{\numberline {1.6}[\ 附录二\ ]古代汉语常用副词简表}{227}{}%
 \newpage 
-\contentsline {chapter}{\numberline {第二章\hspace {.3em}}关于文言虚词的能力培养}{229}{}%
-\contentsline {section}{\numberline {2.1}怎样辨析文言虚词的一般用法}{229}{}%
-\contentsline {section}{\numberline {2.2}怎样辨析文言介词的一般用法}{239}{}%
-\contentsline {section}{\numberline {2.3}[\ 附录三\ ]古代汉语常用副词简表}{249}{}%
-\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于文言句式的能力培养}{251}{}%
-\contentsline {section}{\numberline {3.1}怎样掌握文言的特殊词序}{251}{}%
-\contentsline {section}{\numberline {3.2}怎样掌握文言的特殊句法}{258}{}%
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于文言文翻译的能力培养}{267}{}%
-\contentsline {section}{\numberline {4.1}怎样给文言文断句和加标点}{267}{}%
-\contentsline {section}{\numberline {4.2}怎样翻译文言文}{275}{}%
-\contentsline {part}{第三部分\hspace {1em}作文开窍}{284}{}%
-\contentsline {chapter}{\numberline {第一章\hspace {.3em}}关于作文基本能力的培养}{285}{}%
-\contentsline {section}{\numberline {1.1}怎样进行审题}{285}{}%
-\contentsline {section}{\numberline {1.2}怎样进行构思}{294}{}%
-\contentsline {section}{\numberline {1.3}怎样编写作文提纲}{302}{}%
-\contentsline {section}{\numberline {1.4}怎样修改文章}{310}{}%
-\contentsline {section}{\numberline {1.5}怎样锤炼语言}{320}{}%
-\contentsline {section}{\numberline {1.6}[\ 附录四\ ]\ 怎样进行作文基础训练}{328}{}%
-\contentsline {chapter}{\numberline {第二章\hspace {.3em}}关于记叙文写作能力的培养}{334}{}%
-\contentsline {section}{\numberline {2.1}怎样写比较简单的记叙文}{334}{}%
-\contentsline {section}{\numberline {2.2}怎样写比较复杂的记叙文}{342}{}%
-\contentsline {section}{\numberline {2.3}怎样进行记叙文的缩写、扩写或改写}{349}{}%
-\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于议论文写作能力的培养}{358}{}%
-\contentsline {section}{\numberline {3.1}怎样写比较简单的议论文}{358}{}%
-\contentsline {section}{\numberline {3.2}怎样写比较复杂的议论文}{365}{}%
-\contentsline {section}{\numberline {3.3}怎样写读后感、观后感}{373}{}%
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于说明文写作能力的培养}{383}{}%
-\contentsline {section}{\numberline {4.1}怎样写比较简单的说明文}{383}{}%
-\contentsline {section}{\numberline {4.2}怎样写比较复杂的说明文}{391}{}%
-\contentsline {chapter}{\numberline {第五章\hspace {.3em}}关于应用文写作能力的培养}{400}{}%
-\contentsline {section}{\numberline {5.1}怎样写日记}{400}{}%
-\contentsline {section}{\numberline {5.2}怎样写信}{405}{}%
-\contentsline {section}{\numberline {5.3}怎样写个人计划和总结}{410}{}%
-\contentsline {part}{第四部分\hspace {1em}写在后面的话}{414}{}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}关于文言虚词的能力培养}{230}{}%
+\contentsline {section}{\numberline {2.1}怎样辨析文言虚词的一般用法}{230}{}%
+\contentsline {section}{\numberline {2.2}怎样辨析文言介词的一般用法}{240}{}%
+\contentsline {section}{\numberline {2.3}[\ 附录三\ ]古代汉语常用副词简表}{250}{}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于文言句式的能力培养}{252}{}%
+\contentsline {section}{\numberline {3.1}怎样掌握文言的特殊词序}{252}{}%
+\contentsline {section}{\numberline {3.2}怎样掌握文言的特殊句法}{259}{}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于文言文翻译的能力培养}{268}{}%
+\contentsline {section}{\numberline {4.1}怎样给文言文断句和加标点}{268}{}%
+\contentsline {section}{\numberline {4.2}怎样翻译文言文}{276}{}%
+\contentsline {part}{第三部分\hspace {1em}作文开窍}{285}{}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}关于作文基本能力的培养}{286}{}%
+\contentsline {section}{\numberline {1.1}怎样进行审题}{286}{}%
+\contentsline {section}{\numberline {1.2}怎样进行构思}{295}{}%
+\contentsline {section}{\numberline {1.3}怎样编写作文提纲}{303}{}%
+\contentsline {section}{\numberline {1.4}怎样修改文章}{311}{}%
+\contentsline {section}{\numberline {1.5}怎样锤炼语言}{321}{}%
+\contentsline {section}{\numberline {1.6}[\ 附录四\ ]\ 怎样进行作文基础训练}{329}{}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}关于记叙文写作能力的培养}{335}{}%
+\contentsline {section}{\numberline {2.1}怎样写比较简单的记叙文}{335}{}%
+\contentsline {section}{\numberline {2.2}怎样写比较复杂的记叙文}{343}{}%
+\contentsline {section}{\numberline {2.3}怎样进行记叙文的缩写、扩写或改写}{350}{}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}关于议论文写作能力的培养}{359}{}%
+\contentsline {section}{\numberline {3.1}怎样写比较简单的议论文}{359}{}%
+\contentsline {section}{\numberline {3.2}怎样写比较复杂的议论文}{366}{}%
+\contentsline {section}{\numberline {3.3}怎样写读后感、观后感}{374}{}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}关于说明文写作能力的培养}{384}{}%
+\contentsline {section}{\numberline {4.1}怎样写比较简单的说明文}{384}{}%
+\contentsline {section}{\numberline {4.2}怎样写比较复杂的说明文}{392}{}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}关于应用文写作能力的培养}{401}{}%
+\contentsline {section}{\numberline {5.1}怎样写日记}{401}{}%
+\contentsline {section}{\numberline {5.2}怎样写信}{406}{}%
+\contentsline {section}{\numberline {5.3}怎样写个人计划和总结}{411}{}%
+\contentsline {part}{第四部分\hspace {1em}写在后面的话}{415}{}%
